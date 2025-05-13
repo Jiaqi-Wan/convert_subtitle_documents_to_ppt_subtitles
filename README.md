@@ -10,4 +10,4 @@ Step4:Open this Python script,and only need to edit the document's path at last.
 
 Step5:RUN!
 
-PS If you donnot want to use Python script,you can choose one ready-developed application:Glytheo(but sadly only for MacOS)
+PS If you donnot want to use Python script,you can choose one ready-developed application:Glypheo(but sadly only for MacOS,click this link to download:https://www.glypheo.com/#download)
